@@ -9,3 +9,5 @@ def multiply(x,y):
 	return x*y
 def devide(x,y):
 	return x/y
+def square(x)
+	return x*x
